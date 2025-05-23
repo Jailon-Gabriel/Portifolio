@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.sobremim{
+    padding: 5% 20%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sobremim_conteudo{
+    width: 427px;
+    padding: 2% 2%;
+    border: 1px solid #420092;
+    border-radius: 5%;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.sobremim__conteudo__texto{
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
